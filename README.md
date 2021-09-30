@@ -3,6 +3,11 @@
 This webpage contains the following:
 # My travels
 ## By motorcyle, which is a Ducati Monster 821, a V-twin adrenaline pump much like the Black Widow, hence I call her Scarlett
+Year/Month | Description of Travel
+-----------|----------------------
+13-14 Apr 2017 | 1. Route from QC to Bustos, Cabanatuan, Palayan City, Nueva Ecija-Aurora Road, Baler-Casiguran Road, and overnight in Punta Sierra Verde, Casiguran
+15 Apr 2017 | 2. Punta Sierra Verde to Costa Pacifica in Sabang, Aurora, Picnic Bay Buffet, overnight in North Blue Bay Inn
+
 
 ## By car, a 2017 Mazda MX5 ND RF, a roadster I lovingly named Traci
 
